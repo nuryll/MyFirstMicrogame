@@ -13,16 +13,6 @@ MyFirstMicrogame (Unity Version: 2021.3.14f1)
 - **Score Tracking:** Keeps track of the player's score during the game.
 - **Graphics and Animations:** Basic graphics to enhance the gaming experience.
 
-## Screenshots
-![Gameplay](images/gameplay.png)
-![Scoreboard](images/scoreboard.png)
 
-## Installation
-To set up and run the game locally:
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/nuryll/MyFirstMicrogame.git
-   cd MyFirstMicrogame
    
 
